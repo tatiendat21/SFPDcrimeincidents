@@ -143,8 +143,7 @@ c) Districts where crime incidents categories in the High frequency bracket happ
 
 ![alt text](https://github.com/tatiendat21/SFPDcrimeincidents/blob/main/District%20where%20crime%20incident%20categories%20happened%20in%20the%20high%20frequency%20bracket.png?raw=true)
 ## 🚀 About Me
-I'm an Accountant who is dedicated to pursue the new career path as a Data Analyst.
-
+A data enthusiast.
 
 ## Authors
 
