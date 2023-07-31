@@ -1,5 +1,5 @@
 
-# Mini project - analysing Sanfrancisco Crime Incidents from 2011 to 2018 by using BigQuery SQL
+# Mini project - analysing Sanfrancisco Crime Incidents from 2011 to 2017 by using BigQuery SQL
 
 Hi, welcome to my mini-project to analyse Sanfrancisco Crime Incidents.
 
@@ -129,7 +129,7 @@ As this is a mini-project, I download the two queries as CSV and manipulate the 
 
 *Note: this dataset from Sanfrancisco Police Department has not been updated from 2018 onwards; hence, the number in here is not correctly reflecting for 2018.
 
-a) Overall total number of crime incidents from 2011 to 2018:
+a) Overall total number of crime incidents from 2011 to 2017:
 
 ![alt text](https://github.com/tatiendat21/SFPDcrimeincidents/blob/main/Overall%20total%20number%20of%20crime%20incidents.png?raw=true)
 
