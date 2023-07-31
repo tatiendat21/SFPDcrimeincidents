@@ -142,6 +142,9 @@ b) Crime incidents in the High frequency bracket:
 c) Districts where crime incidents categories in the High frequency bracket happened:
 
 ![alt text](https://github.com/tatiendat21/SFPDcrimeincidents/blob/main/District%20where%20crime%20incident%20categories%20happened%20in%20the%20high%20frequency%20bracket.png?raw=true)
+
+Please also check out my work-in-progress data visualisation on Tableau: https://public.tableau.com/views/BriefcrimeincidentsstatsinSanfranciscofrom2011to2017/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## 🚀 About Me
 A data enthusiast.
 
