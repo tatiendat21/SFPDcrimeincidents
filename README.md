@@ -11,7 +11,7 @@ After previewing the datasets from BigQuery, I'd like to extract the data to ans
 - What is the overall total number of incidents from 2011 to 2017?
 - What are the categories of crime incidents in the High frequency bracket?
 - Where do the crime incidents of the said categories in the High frequency braket take place?
-## Walkthrough
+
 ## 2) Data Query and Analysing
 The dataset table has a total of 12 columns: unique_key, category, descript, dayofweek, pddistrict, resolution, address, longtitude, latitude, location, pdid, timestamp. To answer the objective questions, I only focus on: unique_key, category, pddistrict and timestamp.
 
@@ -86,7 +86,7 @@ FROM
     number_of_incidents ASC)
 ```
 
-### B) QUERY 2: Create the similar set of query like (a), (b) and (c) with column pddistrict
+### B) Query 2: Create the similar set of query like (a), (b) and (c) with column pddistrict
 
 ```
 SELECT
