@@ -1,9 +1,9 @@
 
-# Mini project - analysing Sanfrancisco Crime Incidents from 2011 to 2017 by using BigQuery SQL
+# Mini project - analysing San Francisco Crime Incidents from 2011 to 2017 by using BigQuery SQL
 
-Hi, welcome to my mini-project to analyse Sanfrancisco Crime Incidents.
+Hi, welcome to my mini-project to analyse San Francisco Crime Incidents.
 
-The data is extracted from City and County of Sanfrancisco - Sanfrancisco Police Department reports - publicly available on BigQuery.
+The data is extracted from City and County of San Francisco - San Francisco Police Department reports - publicly available on BigQuery.
 
 
 ## 1) Objective questions
@@ -127,7 +127,7 @@ FROM
 ## 4) Results
 As this is a mini-project, I download the two queries as CSV and manipulate the file with Excel.
 
-*Note: this dataset from Sanfrancisco Police Department has not been updated from 2018 onwards; hence, the number in here is not correctly reflecting for 2018.
+*Note: this dataset from San Francisco Police Department has not been updated from 2018 onwards; hence, the number in here is not correctly reflecting for 2018.
 
 a) Overall total number of crime incidents from 2011 to 2017:
 
