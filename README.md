@@ -124,7 +124,7 @@ FROM
 ```
 
 
-## 4) Results
+## 3) Results
 As this is a mini-project, I download the two queries as CSV and manipulate the file with Excel.
 
 *Note: this dataset from San Francisco Police Department has not been updated from 2018 onwards; hence, the number in here is not correctly reflecting for 2018.
