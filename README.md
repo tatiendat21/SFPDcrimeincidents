@@ -10,7 +10,7 @@ The data is extracted from City and County of San Francisco - San Francisco Poli
 After previewing the datasets from BigQuery, I'd like to extract the data to answer the questions below:
 - What is the overall total number of incidents from 2011 to 2017?
 - What are the categories of crime incidents in the High frequency bracket?
-- Where do the crime incidents of the said categories in the High frequency braket take place?
+- Where do the crime incidents of the said categories in the High frequency bracket take place?
 
 ## 2) Data Query and Analysing
 The dataset table has a total of 12 columns: unique_key, category, descript, dayofweek, pddistrict, resolution, address, longtitude, latitude, location, pdid, timestamp. To answer the objective questions, I only focus on: unique_key, category, pddistrict and timestamp.
