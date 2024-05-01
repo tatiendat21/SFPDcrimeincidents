@@ -146,7 +146,7 @@ c) Districts where crime incidents categories in the High frequency bracket happ
 Please also check out my work-in-progress data visualisation on Tableau: https://public.tableau.com/views/BriefcrimeincidentsstatsinSanfranciscofrom2011to2017/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## 🚀 About Me
-A data enthusiast.
+An Accountant.
 
 ## Authors
 
